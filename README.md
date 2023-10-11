@@ -7,11 +7,11 @@ These requirements are rather high-level and vague. If details are omitted, it i
 Create a browser based or native app to provide information on NYC High schools.
 
 1. Display a list of NYC High Schools.
-1. Get your data here: [https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2017/s3k6-pzi2](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2017/s3k6-pzi2)
+Get your data here: [https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2017/s3k6-pzi2](https://data.cityofnewyork.us/Education/DOE-High-School-Directory-2017/s3k6-pzi2)
 2. Selecting a school should show additional information about the school
-1. Display all the SAT scores - include Math, Reading and Writing.
-1. SAT data here: [https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)
-2. It is up to you to decide what additional information to display
+ Display all the SAT scores - include Math, Reading and Writing.
+ SAT data here: [https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4](https://data.cityofnewyork.us/Education/SAT-Results/f9bf-2cp4)
+. It is up to you to decide what additional information to display
 
 When creating a name for your project, please use the following naming convention:
 
@@ -35,11 +35,7 @@ In order to prevent you from running down rabbit holes that are less important t
 - Unit Tests
 - Additional functionality – whatever you see fit.
 
-**iOS:**
 
-- For applications that include CocoaPods with their project code, having the Pods included in the code commits as source is recommended. (Even though it goes against the CocoaPods general rules).
-- Be sure to use safe area insets.
-- Make sure your app is compatible with iPhone X.
 
 
 
