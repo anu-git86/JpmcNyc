@@ -1,15 +1,5 @@
 ## 20231012-ANUSHAGHATTAMANENI-NYCSchools
 
-<img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/20231012-ANUSHAGHATTAMANENI-NYCSchools/Supporting%20Files/logo.png" width="250">
-
-### Screenshots
-
-<img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/Screenshots/img1.png" width="250"> <img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/Screenshots/img2.png" width="250"> <img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/Screenshots/img3.png" width="250">
-
-<img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/Screenshots/img4.png" width="250"> <img src="https://raw.githubusercontent.com/afnanm1999/20231012-ANUSHAGHATTAMANENI-NYCSchools/master/Screenshots/img5.png" width="250">
-
-
-
 **REQUIREMENTS** :
 
 These requirements are rather high-level and vague. If details are omitted, it is because we will be happy with any of a wide variety of solutions. Don&#39;t worry about finding &quot;the&quot; solution. Feel free to be creative with the requirements. Your goal is to impress (but do so with clean code).
